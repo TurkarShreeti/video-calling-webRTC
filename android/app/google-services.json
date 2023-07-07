@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947143575198",
+    "project_id": "videocalling-app-12ff9",
+    "storage_bucket": "videocalling-app-12ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947143575198:android:ac4690051c22a732f51d8f",
+        "android_client_info": {
+          "package_name": "com.example.video_calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947143575198-rkp3oh8s45fhvijcvkoggbuel2hjbnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZJMS7d7GW90c_OtLlmhTwXYAUjd0HHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947143575198-rkp3oh8s45fhvijcvkoggbuel2hjbnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
